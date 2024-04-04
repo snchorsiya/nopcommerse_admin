@@ -1,0 +1,504 @@
+2024-03-03 11:13:21 :WARNING :selenium.webdriver.common.selenium_manager :Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): error trying to connect: dns error: No such host is known. (os error 11001)
+2024-03-03 11:13:22 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-03 11:14:53 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-03 11:14:57 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-03 11:14:57 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-03 11:15:03 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-03 11:15:06 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-03 11:20:25 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-03 11:20:32 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-03 11:20:32 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-03 11:20:39 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-03 11:20:42 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-03 11:20:54 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-03 11:23:39 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-03 11:23:42 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-03 11:23:42 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-03 11:23:48 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-03 11:23:52 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-03 11:24:03 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-03 11:24:14 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-09 17:55:26 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-09 17:55:32 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-09 17:55:32 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-09 17:55:39 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-09 17:55:43 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-09 17:55:57 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-09 17:56:09 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-09 17:56:15 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-03-09 17:56:17 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 17:56:18 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 17:56:18 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 17:56:28 :INFO :Test_Admin_Dashboard_02 :===== getting error message =Dashboard
+2024-03-09 17:56:28 :INFO :Test_Admin_Dashboard_02 :===== Successfully Dashboard page title =====
+2024-03-09 17:56:34 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-03-09 17:56:36 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 17:56:37 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 17:56:37 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 17:56:50 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-03-09 17:56:56 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-09 17:56:58 :INFO :Test_Admin_Login_01 :===== getting login title =Your store. Login
+2024-03-09 17:57:06 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-09 17:57:08 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-09 17:57:09 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-09 17:57:09 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-09 17:57:14 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-09 17:57:14 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-09 17:57:19 :INFO :Test_Admin_Login_01 :=======Verify the enter invalid username and password========
+2024-03-09 17:57:21 :INFO :Test_Admin_Login_01 :Open the login page
+2024-03-09 17:57:21 :INFO :Test_Admin_Login_01 :Enter the Invalid Username
+2024-03-09 17:57:21 :INFO :Test_Admin_Login_01 :Enter the Invalid Password
+2024-03-09 17:57:23 :INFO :Test_Admin_Login_01 :Click on Login button
+2024-03-09 17:57:23 :INFO :Test_Admin_Login_01 :Print validation message = Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-03-09 17:57:23 :INFO :Test_Admin_Login_01 :======Error message display successfully==============
+2024-03-09 17:57:27 :INFO :Test_Admin_Login_01 :Verify the blank username and enter password in Admin Account.
+2024-03-09 17:57:29 :INFO :Test_Admin_Login_01 :Open the Login Page
+2024-03-09 17:57:29 :INFO :Test_Admin_Login_01 :Blank UserName
+2024-03-09 17:57:29 :INFO :Test_Admin_Login_01 :Enter the Password
+2024-03-09 17:57:31 :INFO :Test_Admin_Login_01 :Click on Login Button, Login Unsuccessful
+2024-03-09 17:57:36 :INFO :Test_Admin_Login_Testdata_02 :********** test_valid_admin_login_testData started ***********
+2024-03-09 17:57:37 :INFO :Test_Admin_Login_Testdata_02 :===========Open Login Page===========
+2024-03-09 17:57:38 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-03-09 17:57:38 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-03-09 17:57:45 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-09 17:57:45 :INFO :Test_Admin_Login_Testdata_02 :===== Successfully login page title =====
+2024-03-09 17:57:47 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-03-09 17:57:47 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-03-09 17:57:53 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Your store. Login
+2024-03-09 17:57:53 :INFO :Test_Admin_Login_Testdata_02 :test data is passed
+2024-03-09 17:57:53 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-03-09 17:57:53 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-03-09 17:58:00 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Your store. Login
+2024-03-09 17:58:00 :INFO :Test_Admin_Login_Testdata_02 :test data is passed
+2024-03-09 17:58:00 :INFO :Test_Admin_Login_Testdata_02 :Test admin data driven test is Passed
+2024-03-09 17:58:06 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 17:58:11 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 17:58:11 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 17:58:18 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 17:58:18 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 17:58:26 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 17:58:31 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 17:58:31 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 17:58:49 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 17:58:54 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 17:58:54 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 17:59:01 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 17:59:01 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:12:30 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:12:34 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:12:34 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:12:40 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:12:40 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:12:44 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:12:49 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:12:49 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:12:54 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:12:54 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:13:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:13:17 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:13:17 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:13:22 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:13:22 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:15:56 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-09 21:16:01 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-09 21:16:01 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-09 21:16:07 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-09 21:16:11 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-09 21:16:23 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-09 21:16:34 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-09 21:16:38 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:16:43 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:16:43 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:16:49 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:16:49 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:16:54 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:17:00 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:17:00 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:17:05 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:17:05 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:17:23 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:17:27 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:17:27 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:17:32 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:17:32 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:19:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:19:19 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:19:19 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:19:25 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:19:25 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:19:42 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:19:48 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:19:48 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:19:54 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:19:54 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:20:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:20:17 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:20:17 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:20:23 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:20:23 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:27:42 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-09 21:27:46 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-09 21:27:46 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-09 21:27:51 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-09 21:27:55 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-09 21:28:31 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-09 21:28:37 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-09 21:28:37 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-09 21:28:42 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-09 21:28:46 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-09 21:29:45 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-09 21:29:48 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-09 21:29:48 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-09 21:29:53 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-09 21:29:57 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-09 21:30:09 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-09 21:30:16 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-09 21:32:44 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:32:49 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:32:49 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:32:55 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:32:55 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:33:10 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:33:14 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:33:14 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:33:19 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:33:19 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:33:34 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:33:40 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:33:40 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:33:46 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:33:46 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:35:47 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:35:52 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:35:52 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:35:58 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:35:58 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:36:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:36:17 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:36:17 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:36:23 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:36:23 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:36:38 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:36:43 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:36:43 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:36:49 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:36:49 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:38:56 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:39:02 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:39:02 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:39:08 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:39:08 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:39:23 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:39:27 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:39:27 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:39:32 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:39:32 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:39:47 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 21:39:52 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:39:52 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:39:58 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:39:58 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 21:40:51 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:40:55 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:40:55 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:41:01 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:41:01 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:41:46 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:41:51 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:41:51 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:41:57 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:41:57 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:43:04 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:43:08 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:43:08 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:43:14 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:43:14 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:45:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:45:18 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:45:18 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:45:24 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:45:24 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:45:27 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test failed******
+2024-03-09 21:50:54 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:51:00 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:51:00 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:51:06 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:51:06 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:54:59 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:55:03 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:55:03 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:55:08 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:55:08 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:56:02 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:56:07 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:56:07 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:56:12 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:56:12 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:56:16 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test failed******
+2024-03-09 21:57:42 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:57:46 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:57:46 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:57:52 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:57:52 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:58:00 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test failed******
+2024-03-09 21:59:17 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-09 21:59:21 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:59:21 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:59:27 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:59:27 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-09 21:59:35 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test passed*******
+2024-03-09 21:59:40 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-09 21:59:45 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 21:59:45 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 21:59:50 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 21:59:50 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-09 21:59:56 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name test passed*******
+2024-03-09 22:00:00 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-09 22:00:05 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-09 22:00:05 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-09 22:00:11 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-09 22:00:11 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-09 22:00:16 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname test passed*******
+2024-03-09 22:17:01 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-03-09 22:17:01 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:17:02 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:17:02 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:17:14 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-03-09 22:17:14 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:17:15 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:17:15 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:17:24 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-03-09 22:18:03 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-03-09 22:18:05 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:18:05 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:18:05 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:18:17 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-03-09 22:18:18 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:18:19 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:18:19 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:18:27 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-03-09 22:20:34 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-03-09 22:20:35 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:20:36 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:20:36 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:20:48 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-03-09 22:20:49 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:20:49 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:20:50 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:21:01 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-03-09 22:21:31 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-03-09 22:21:31 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:21:32 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:21:32 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:21:40 :INFO :Test_Admin_Dashboard_02 :===== getting error message =Dashboard
+2024-03-09 22:21:40 :INFO :Test_Admin_Dashboard_02 :===== Successfully Dashboard page title =====
+2024-03-09 22:21:45 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-03-09 22:21:47 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-03-09 22:21:47 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-03-09 22:21:47 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-03-09 22:21:57 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-03-10 08:37:08 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 08:37:10 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 08:37:11 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 08:37:11 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 08:37:15 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 08:37:15 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 08:39:01 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-10 08:39:08 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-10 08:39:08 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-10 08:39:14 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-10 08:39:18 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-10 08:39:30 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-10 08:39:38 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-10 08:39:43 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 08:39:45 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 08:39:46 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 08:39:47 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 08:39:53 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 08:39:53 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 08:39:57 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-10 08:40:05 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 08:40:05 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 08:40:14 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 08:40:14 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-10 08:43:51 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-10 08:44:08 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-10 08:44:08 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-10 08:44:18 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-10 08:44:21 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-10 08:44:32 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-10 08:44:40 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-10 08:44:44 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 08:44:46 :INFO :Test_Admin_Login_01 :===== getting login title =Your store. Login
+2024-03-10 08:44:50 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 08:44:52 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 08:44:52 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 08:44:52 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 08:45:00 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 08:45:00 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 08:45:05 :INFO :Test_Admin_Login_01 :=======Verify the enter invalid username and password========
+2024-03-10 08:45:06 :INFO :Test_Admin_Login_01 :Open the login page
+2024-03-10 08:45:07 :INFO :Test_Admin_Login_01 :Enter the Invalid Username
+2024-03-10 08:45:07 :INFO :Test_Admin_Login_01 :Enter the Invalid Password
+2024-03-10 08:45:08 :INFO :Test_Admin_Login_01 :Click on Login button
+2024-03-10 08:45:08 :INFO :Test_Admin_Login_01 :Print validation message = Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-03-10 08:45:08 :INFO :Test_Admin_Login_01 :======Error message display successfully==============
+2024-03-10 08:45:13 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-10 08:45:20 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 08:45:20 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 08:45:30 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 08:45:30 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-10 08:45:38 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test passed*******
+2024-03-10 08:45:43 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-03-10 08:45:55 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 08:45:55 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 08:46:07 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 08:46:07 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-03-10 08:46:20 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name test passed*******
+2024-03-10 08:46:25 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-03-10 08:46:35 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 08:46:35 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 08:46:48 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 08:46:48 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-03-10 08:46:53 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname test passed*******
+2024-03-10 09:00:10 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-10 09:00:31 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-10 09:00:31 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-10 09:00:43 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-10 09:00:47 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-10 09:01:00 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-10 09:01:11 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-10 09:01:16 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 09:01:18 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 09:01:19 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 09:01:19 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 09:01:30 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 09:01:30 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 09:01:35 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-10 09:02:30 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 09:02:30 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 09:03:46 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 09:03:46 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-10 09:04:25 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email test failed******
+2024-03-10 09:12:11 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-10 09:12:15 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-10 09:12:15 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-10 09:12:21 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-10 09:12:25 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-03-10 09:12:36 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-03-10 09:12:44 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-03-10 09:12:48 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 09:12:50 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 09:12:50 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 09:12:50 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 09:12:55 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 09:12:55 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 09:12:59 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-10 09:13:04 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 09:13:04 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-03-10 09:13:10 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-03-10 09:13:10 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-03-10 09:20:08 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-03-10 09:20:14 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-03-10 09:20:14 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-03-10 09:20:18 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-03-10 09:20:43 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-03-10 09:20:45 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-03-10 09:20:45 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-03-10 09:20:45 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-03-10 09:20:56 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-03-10 09:20:56 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-03-10 09:21:08 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-03-10 09:21:15 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-03-10 09:21:15 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-04-04 22:25:59 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-04-04 22:26:08 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-04-04 22:26:08 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-04-04 22:26:15 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-04-04 22:26:19 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-04-04 22:26:30 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-04-04 22:26:38 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-04-04 22:26:44 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-04-04 22:26:46 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-04-04 22:26:46 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-04-04 22:26:46 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-04-04 22:26:53 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-04-04 22:26:53 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-04-04 22:26:59 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-04-04 22:27:10 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-04-04 22:27:10 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-04-04 22:27:17 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-04-04 22:27:17 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-04-04 22:28:13 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03*********
+2024-04-04 22:28:21 :INFO :Test_Add_New_Customer_03 :*********Login completed************
+2024-04-04 22:28:21 :INFO :Test_Add_New_Customer_03 :**********Click on Link in Admin Dashboard*********
+2024-04-04 22:28:28 :INFO :Test_Add_New_Customer_03 :*************Starting add customer test************
+2024-04-04 22:28:32 :INFO :Test_Add_New_Customer_03 :************Providing customer info started**********
+2024-04-04 22:28:44 :INFO :Test_Add_New_Customer_03 :***********Test store 2 selected**********
+2024-04-04 22:28:52 :INFO :Test_Add_New_Customer_03 :**********Test_Add_New_Customer_03 test passed************
+2024-04-04 22:28:59 :INFO :Test_Admin_Dashboard_02 :**********Verification of dashboard************
+2024-04-04 22:29:01 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-04-04 22:29:01 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-04-04 22:29:01 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-04-04 22:29:15 :INFO :Test_Admin_Dashboard_02 :===== getting error message =Dashboard
+2024-04-04 22:29:15 :INFO :Test_Admin_Dashboard_02 :===== Successfully Dashboard page title =====
+2024-04-04 22:29:20 :INFO :Test_Admin_Dashboard_02 :**********Verification of customer link************
+2024-04-04 22:29:21 :INFO :Test_Admin_Dashboard_02 :=========Open Login Page=====
+2024-04-04 22:29:22 :INFO :Test_Admin_Dashboard_02 :===== enter username ===== 
+2024-04-04 22:29:23 :INFO :Test_Admin_Dashboard_02 :=======enter password=======
+2024-04-04 22:29:34 :INFO :Test_Admin_Dashboard_02 :=========Customer Page Open Successfully=====
+2024-04-04 22:29:42 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-04-04 22:29:44 :INFO :Test_Admin_Login_01 :===== getting login title =Your store. Login
+2024-04-04 22:29:50 :INFO :Test_Admin_Login_01 :**********Verification of admin login page***********
+2024-04-04 22:29:52 :INFO :Test_Admin_Login_01 :===========Open Login Page===========
+2024-04-04 22:29:52 :INFO :Test_Admin_Login_01 :===== enter username =====
+2024-04-04 22:29:53 :INFO :Test_Admin_Login_01 :===== enter password =====
+2024-04-04 22:29:59 :INFO :Test_Admin_Login_01 :===== getting login title =Dashboard / nopCommerce administration
+2024-04-04 22:29:59 :INFO :Test_Admin_Login_01 :===== Successfully login page title =====
+2024-04-04 22:30:05 :INFO :Test_Admin_Login_01 :=======Verify the enter invalid username and password========
+2024-04-04 22:30:07 :INFO :Test_Admin_Login_01 :Open the login page
+2024-04-04 22:30:07 :INFO :Test_Admin_Login_01 :Enter the Invalid Username
+2024-04-04 22:30:07 :INFO :Test_Admin_Login_01 :Enter the Invalid Password
+2024-04-04 22:30:10 :INFO :Test_Admin_Login_01 :Click on Login button
+2024-04-04 22:30:10 :INFO :Test_Admin_Login_01 :Print validation message = Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-04-04 22:30:10 :INFO :Test_Admin_Login_01 :======Error message display successfully==============
+2024-04-04 22:30:15 :INFO :Test_Admin_Login_01 :Verify the blank username and enter password in Admin Account.
+2024-04-04 22:30:17 :INFO :Test_Admin_Login_01 :Open the Login Page
+2024-04-04 22:30:17 :INFO :Test_Admin_Login_01 :Blank UserName
+2024-04-04 22:30:17 :INFO :Test_Admin_Login_01 :Enter the Password
+2024-04-04 22:30:17 :INFO :Test_Admin_Login_01 :Click on Login Button, Login Unsuccessful
+2024-04-04 22:30:26 :INFO :Test_Admin_Login_Testdata_02 :********** test_valid_admin_login_testData started ***********
+2024-04-04 22:30:27 :INFO :Test_Admin_Login_Testdata_02 :===========Open Login Page===========
+2024-04-04 22:30:27 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-04-04 22:30:28 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-04-04 22:30:36 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Dashboard / nopCommerce administration
+2024-04-04 22:30:36 :INFO :Test_Admin_Login_Testdata_02 :===== Successfully login page title =====
+2024-04-04 22:30:38 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-04-04 22:30:38 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-04-04 22:30:44 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Your store. Login
+2024-04-04 22:30:44 :INFO :Test_Admin_Login_Testdata_02 :test data is passed
+2024-04-04 22:30:44 :INFO :Test_Admin_Login_Testdata_02 :===== enter username =====
+2024-04-04 22:30:45 :INFO :Test_Admin_Login_Testdata_02 :===== enter password =====
+2024-04-04 22:30:50 :INFO :Test_Admin_Login_Testdata_02 :===== getting login title =Your store. Login
+2024-04-04 22:30:50 :INFO :Test_Admin_Login_Testdata_02 :test data is passed
+2024-04-04 22:30:50 :INFO :Test_Admin_Login_Testdata_02 :Test admin data driven test is Passed
+2024-04-04 22:30:57 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_001_with email started*******
+2024-04-04 22:31:03 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-04-04 22:31:03 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-04-04 22:31:10 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-04-04 22:31:10 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Email***********
+2024-04-04 22:31:33 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name started*******
+2024-04-04 22:31:41 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-04-04 22:31:41 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-04-04 22:31:47 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-04-04 22:31:47 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By Name***********
+2024-04-04 22:31:53 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_002_with name test passed*******
+2024-04-04 22:31:58 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname started*******
+2024-04-04 22:32:09 :INFO :Test_Search_Customer_04 :**********Login completed***********
+2024-04-04 22:32:09 :INFO :Test_Search_Customer_04 :*********Click on Link in Dashboard*********
+2024-04-04 22:32:16 :INFO :Test_Search_Customer_04 :***********Navigate to customer page***********
+2024-04-04 22:32:16 :INFO :Test_Search_Customer_04 :***********Starting Customer Search By CompanyName***********
+2024-04-04 22:32:21 :INFO :Test_Search_Customer_04 :*************Test_Search_Customer_04_003_with companyname test passed*******
